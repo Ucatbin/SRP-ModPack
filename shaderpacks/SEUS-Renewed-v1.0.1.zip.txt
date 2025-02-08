@@ -1,0 +1,4 @@
+#Fri Feb 07 22:41:57 CST 2025
+GAMMA=1.3
+shadowDistance=80.0
+shadowMapResolution=1024
