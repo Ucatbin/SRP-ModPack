@@ -725,8 +725,8 @@ srparasites:infestedbush:4, 寄染脉圈
 srparasites:infestedbush:5, 寄染脉根
 srparasites:bloodyice, 血色冰
 srparasites:biomeheart, 寄巢核心
-srparasites:colonyheart, 寄生种群核心
-srparasites:colonyoutpost, 寄生种群前哨
+srparasites:colonyheart, 聚生地核心
+srparasites:colonyoutpost, 聚生地前哨站
 srparasites:biomepurifier, §b生物群系净化器
 srparasites:parasitebush:0, 微管草网
 srparasites:parasitebush:1, 神经蜷枝
@@ -750,10 +750,10 @@ srparasites:parasiterubble:2, 寄巢石头
 srparasites:parasiterubble:3, 破碎的寄巢石头
 srparasites:parasiterubble:4, 寄腐木头
 srparasites:parasiterubble:5, 寄巢石砖
-srparasites:parasiterubble:6, 寄巢钢块
+srparasites:parasiterubble:6, 寄巢矿物块
 srparasites:parasiterubble:7, 血纹黑曜石
 srparasites:parasiterubble:8, 被同化的菌体
-srparasites:parasitestructure, 未成形的寄生种群结构
+srparasites:parasitestructure, 未成形的聚生地结构
 srparasites:parasitethin, 纤细寄生原木
 srparasites:parasitesapling:0, 脉木树苗
 srparasites:parasitesapling:1, 诡眼树苗
@@ -761,7 +761,7 @@ srparasites:parasitesapling:2, 暗木树苗
 srparasites:parasitemouth, 深嘴
 srparasites:parasiterubbledense:0, 压缩寄巢石头
 srparasites:parasiterubbledense:1, 硬化寄巢石头
-srparasites:parasiterubbledense:2, 寄生压缩种群石头
+srparasites:parasiterubbledense:2, 压缩聚生地石头
 srparasites:parasiterubble_bonestairs, 硬实骨块楼梯
 srparasites:parasitestain_fleshstairs, 肉块楼梯
 srparasites:parasiterubble_slabdouble, 硬实骨块
@@ -781,45 +781,45 @@ srparasites:evolutionlure:7, 诱饵（§d压缩 ++§f）
 srparasites:evolutionlure:8, tile.srparasites.evolutionlure_nine.name
 srparasites:evolutionlure:9, tile.srparasites.evolutionlure_ten.name
 srparasites:tunnel, 隧道
-srparasites:gore:0, 小型被同化的遗骸
-srparasites:gore:1, 大型被同化的遗骸
-srparasites:gore:2, 小型原始遗骸
-srparasites:gore:3, 大型原始遗骸
-srparasites:gore:4, 小型适应遗骸
-srparasites:gore:5, 大型适应遗骸
-srparasites:gore:6, 小型纯种遗骸
-srparasites:gore:7, 大型纯种遗骸
-srparasites:gore:8, 中型被同化的遗骸
-srparasites:gore:9, 中型原始遗骸
-srparasites:gore:10, 中型适应遗骸
-srparasites:gore:11, 中型纯种遗骸
+srparasites:gore:0, 小型同化种遗骸
+srparasites:gore:1, 大型同化种遗骸
+srparasites:gore:2, 小型原始种遗骸
+srparasites:gore:3, 大型原始种遗骸
+srparasites:gore:4, 小型适应种遗骸
+srparasites:gore:5, 大型适应种遗骸
+srparasites:gore:6, 小型纯粹种遗骸
+srparasites:gore:7, 大型纯粹种遗骸
+srparasites:gore:8, 中型同化种遗骸
+srparasites:gore:9, 中型原始种遗骸
+srparasites:gore:10, 中型适应种遗骸
+srparasites:gore:11, 中型纯粹种遗骸
 srparasites:canisteractive, 纳物囊包
 srparasites:dispatchern, §c调度柱胞窝
-srparasites:infestedore:0, 寄蚀煤矿石
-srparasites:infestedore:1, 寄蚀钻石矿石
-srparasites:infestedore:2, 寄蚀绿宝石矿石
-srparasites:infestedore:3, 寄蚀金矿石
-srparasites:infestedore:4, 寄蚀铁矿石
-srparasites:infestedore:5, 寄蚀青金石矿石
-srparasites:infestedore:6, 寄蚀红石矿石
-srparasites:infestedore:7, 寄蚀矿石
+srparasites:infestedore:0, 寄染煤矿石
+srparasites:infestedore:1, 寄染钻石矿石
+srparasites:infestedore:2, 寄染绿宝石矿石
+srparasites:infestedore:3, 寄染金矿石
+srparasites:infestedore:4, 寄染铁矿石
+srparasites:infestedore:5, 寄染青金石矿石
+srparasites:infestedore:6, 寄染红石矿石
+srparasites:infestedore:7, 寄染矿石
 srparasites:ada_summoner_drop, §b召唤兽核心
 srparasites:ada_yelloweye_drop, §b黄眸兽的骨头
-srparasites:ada_manducater_drop, §b咀骨兽的球
+srparasites:ada_manducater_drop, §b咀骨兽的核心
 srparasites:ada_reeker_drop, §b毒腥兽的牙齿
 srparasites:ada_longarms_drop, §b长臂兽盔甲碎片
 srparasites:ada_bolster_drop, §b协增兽的甲壳
 srparasites:ada_arachnida_drop, §b蛛形兽的利爪
 srparasites:ada_devourer_drop, §b吞噬兽的触须
 srparasites:assimilated_flesh, 被感染的肉
-srparasites:beckon_drop, §a唤兽棘柱的肉膜
+srparasites:beckon_drop, §a召唤柱的肉膜
 srparasites:dispatcher_drop, §c调度柱的肉膜
 srparasites:itemtab, §d无
 srparasites:itemassimilate, 同化之杖
 srparasites:itemevolve, 进化之杖
 srparasites:itemdevolve, 退化之杖
 srparasites:itemvariant, 变种之杖
-srparasites:itemthrow, §6灭寄弹
+srparasites:itemthrow, §6净污熔胶
 srparasites:evclock, §c染血的钟
 srparasites:nodecompass, §c节点指南针
 srparasites:dried_tendons, §e干燥肌腱
@@ -834,7 +834,7 @@ srparasites:lurecomponent3, §b被切下的筋腱
 srparasites:lurecomponent4, §b有毒肺脏
 srparasites:lurecomponent5, §b带毒大脑
 srparasites:lurecomponent6, §b本源碎块
-srparasites:itemmobspawner_dorpa, 被同化的巨蜘蛛刷怪蛋
+srparasites:itemmobspawner_dorpa, 被同化的大蜘蛛刷怪蛋
 srparasites:itemmobspawner_infsquid, 被同化的鱿鱼刷怪蛋
 srparasites:itemmobspawner_infbear, 被同化的熊刷怪蛋
 srparasites:itemmobspawner_infhuman, 被同化的人类刷怪蛋
@@ -867,16 +867,16 @@ srparasites:itemmobspawner_ferhorse, 狂化马刷怪蛋
 srparasites:itemmobspawner_ferpig, 狂化猪刷怪蛋
 srparasites:itemmobspawner_fersheep, 狂化羊刷怪蛋
 srparasites:itemmobspawner_fervillager, 狂化村民刷怪蛋
-srparasites:itemmobspawner_ferwolf, 狂化猪刷怪蛋
+srparasites:itemmobspawner_ferwolf, 狂化狼刷怪蛋
 srparasites:itemmobspawner_higolem, 被操纵的铁傀儡刷怪蛋
 srparasites:itemmobspawner_hiblaze, 被操纵的烈焰人刷怪蛋
 srparasites:itemmobspawner_hiskeleton, 被操纵的骷髅刷怪蛋
-srparasites:itemmobspawner_host, 寄生柱刷怪蛋
-srparasites:itemmobspawner_hostii, 群骷柱刷怪蛋
-srparasites:itemmobspawner_heed, 多首异兽刷怪蛋
+srparasites:itemmobspawner_host, 缠骨柱刷怪蛋
+srparasites:itemmobspawner_hostii, 缠骷柱刷怪蛋
+srparasites:itemmobspawner_heed, 警戒兽刷怪蛋
 srparasites:itemmobspawner_cruxa, 烬余兽刷怪蛋
 srparasites:itemmobspawner_mes, 寄生奴仆刷怪蛋
-srparasites:itemmobspawner_lesh, 移动肉块刷怪蛋
+srparasites:itemmobspawner_lesh, 活体肉块刷怪蛋
 srparasites:itemmobspawner_shyco, 原始长臂兽刷怪蛋
 srparasites:itemmobspawner_canra, 原始召唤兽刷怪蛋
 srparasites:itemmobspawner_nogla, 原始毒腥兽刷怪蛋
@@ -884,7 +884,7 @@ srparasites:itemmobspawner_hull, 原始咀骨兽刷怪蛋
 srparasites:itemmobspawner_emana, 原始黄眸兽刷怪蛋
 srparasites:itemmobspawner_bano, 原始协增兽刷怪蛋
 srparasites:itemmobspawner_wymo, 原始潜地兽刷怪蛋 
-srparasites:itemmobspawner_iki, 原始育害兽刷怪蛋
+srparasites:itemmobspawner_iki, 原始蚊母兽刷怪蛋
 srparasites:itemmobspawner_ranrac, 原始蛛形兽刷怪蛋
 srparasites:itemmobspawner_lum, 原始吞噬兽刷怪蛋
 srparasites:itemmobspawner_shycoadapted, 适应长臂兽刷怪蛋
@@ -897,15 +897,15 @@ srparasites:itemmobspawner_ranracadapted, 适应蛛形兽刷怪蛋
 srparasites:itemmobspawner_lodo, 虫灵刷怪蛋
 srparasites:itemmobspawner_mudo, 裂兽刷怪蛋
 srparasites:itemmobspawner_nuuh, 凶裂兽刷怪蛋
-srparasites:itemmobspawner_ata, 狂疫虫刷怪蛋
+srparasites:itemmobspawner_ata, 狂疫蚊刷怪蛋
 srparasites:itemmobspawner_rathol, 重型母体刷怪蛋
 srparasites:itemmobspawner_gothol, 轻型母体刷怪蛋
 srparasites:itemmobspawner_buthol, 飞行母体刷怪蛋
 srparasites:itemmobspawner_anged, 巡兽刷怪蛋
-srparasites:itemmobspawner_venkrol, I 阶唤兽棘柱刷怪蛋
-srparasites:itemmobspawner_venkrolsii, II 阶唤兽棘柱刷怪蛋
-srparasites:itemmobspawner_venkrolsiii, III 阶唤兽棘柱刷怪蛋
-srparasites:itemmobspawner_venkrolsiv, IV 阶唤兽棘柱刷怪蛋
+srparasites:itemmobspawner_venkrol, I 阶召唤柱刷怪蛋
+srparasites:itemmobspawner_venkrolsii, II 阶召唤柱刷怪蛋
+srparasites:itemmobspawner_venkrolsiii, III 阶召唤柱刷怪蛋
+srparasites:itemmobspawner_venkrolsiv, IV 阶召唤柱刷怪蛋
 srparasites:itemmobspawner_tonro, 曲击柱刷怪蛋
 srparasites:itemmobspawner_unvo, 哨戒爪刷怪蛋 
 srparasites:itemmobspawner_nak, 缠缚触手刷怪蛋
@@ -913,7 +913,7 @@ srparasites:itemmobspawner_dod, I 阶调度柱刷怪蛋
 srparasites:itemmobspawner_dodsii, II 阶调度柱刷怪蛋
 srparasites:itemmobspawner_dodsiii, III 阶调度柱刷怪蛋
 srparasites:itemmobspawner_dodsiv, IV 阶调度柱刷怪蛋
-srparasites:itemmobspawner_alafha, 监视兽刷怪蛋
+srparasites:itemmobspawner_alafha, 监察兽刷怪蛋
 srparasites:itemmobspawner_ganro, 看守兽刷怪蛋
 srparasites:itemmobspawner_omboo, 轻型轰炸兽刷怪蛋
 srparasites:itemmobspawner_esor, 掠夺兽刷怪蛋
@@ -921,7 +921,7 @@ srparasites:itemmobspawner_orch, 统御兽刷怪蛋
 srparasites:itemmobspawner_flog, 步行兽刷怪蛋
 srparasites:itemmobspawner_jinjo, 重型轰炸兽刷怪蛋
 srparasites:itemmobspawner_pheon, 逐猎兽刷怪蛋
-srparasites:itemmobspawner_vesta, 种群母体刷怪蛋
+srparasites:itemmobspawner_vesta, 聚生载体刷怪蛋
 srparasites:itemmobspawner_lencia, 怖怪体刷怪蛋
 srparasites:itemmobspawner_elvia, 幽鬼体刷怪蛋
 srparasites:itemmobspawner_oronco, 远古惧魔刷怪蛋
@@ -949,21 +949,26 @@ srparasites:armor_helm_sentient, §6觉知头盔
 srparasites:armor_chest_sentient, §6觉知胸甲
 srparasites:armor_pants_sentient, §6觉知护腿
 srparasites:armor_boots_sentient, §6觉知靴子
-srpextra:itemmobspawner_hijackedcreeper, 被操纵的苦力怕刷怪蛋
-srpextra:itemmobspawner_hijackedcreeper_head, 被操纵的苦力怕头颅刷怪蛋
-srpextra:itemmobspawner_hijackedskeleton, 被操纵的骷髅刷怪蛋
-srpextra:itemmobspawner_hijackedskeleton_stray, 被操纵的流浪者刷怪蛋
-srpextra:itemmobspawner_hijackedskeleton_head, 被操纵的骷髅头颅刷怪蛋
-srpextra:itemmobspawner_stalker, 寻踪者刷怪蛋
-srpextra:itemmobspawner_assimilatedwitch, 被同化的女巫刷怪蛋
-srpextra:itemmobspawner_assimilatedwitch_head, 被同化的女巫头颅刷怪蛋
-srpextra:itemremains_check, 遗骸分析器
-srpextra:itemremains_spawn, 遗骸复活器
-srpextra:itemremains_canister, 遗骸存储罐
-lootr:lootr_chest, 战利品箱子
-lootr:lootr_trapped_chest, 战利品箱子
-lootr:lootr_shulker, 战利品潜影贝
-lootr:trophy, 百次奖杯
+cgm:workbench, 枪械工作台
+cgm:handgun, 手枪
+cgm:shotgun, 霰弹枪
+cgm:rifle, 步枪
+cgm:grenade_launcher, 榴弹枪
+cgm:bazooka, 巴祖卡火箭筒
+cgm:chain_gun, 加特林机枪
+cgm:assault_rifle, 突击步枪
+cgm:machine_pistol, 自动手枪
+cgm:basic_ammo, 基础弹药
+cgm:advanced_ammo, 高级弹药
+cgm:shell, 霰弹
+cgm:missile, 导弹
+cgm:grenade, 手榴弹
+cgm:stun_grenade, 闪光弹
+cgm:part:0, item.cgm.part_chain_gun_base.name
+cgm:scope:0, 瞄准镜（短）
+cgm:scope:1, 瞄准镜（中）
+cgm:scope:2, 瞄准镜（长）
+cgm:silencer, 消音器
 spartanshields:shield_basic_wood, 粗砺木盾牌
 spartanshields:shield_basic_stone, 石头镶框盾牌
 spartanshields:shield_basic_iron, 铁镶板盾牌
@@ -1015,6 +1020,21 @@ spartanshields:shield_tc_void, 虚空镶板盾牌
 spartanshields:shield_riot_enderio, 玄钢防暴盾牌
 spartanshields:shield_riot_rftools, 充能防爆盾牌
 spartanshields:shield_flux_ra, 红石充能盾牌
+srpextra:itemmobspawner_hijackedcreeper, 被操纵的苦力怕刷怪蛋
+srpextra:itemmobspawner_hijackedcreeper_head, 被操纵的苦力怕头颅刷怪蛋
+srpextra:itemmobspawner_hijackedskeleton, 被操纵的骷髅刷怪蛋
+srpextra:itemmobspawner_hijackedskeleton_stray, 被操纵的流浪者刷怪蛋
+srpextra:itemmobspawner_hijackedskeleton_head, 被操纵的骷髅头颅刷怪蛋
+srpextra:itemmobspawner_stalker, 寻踪者刷怪蛋
+srpextra:itemmobspawner_assimilatedwitch, 被同化的女巫刷怪蛋
+srpextra:itemmobspawner_assimilatedwitch_head, 被同化的女巫头颅刷怪蛋
+srpextra:itemremains_check, 遗骸分析器
+srpextra:itemremains_spawn, 遗骸复活器
+srpextra:itemremains_canister, 遗骸存储罐
+lootr:lootr_chest, 战利品箱子
+lootr:lootr_trapped_chest, 战利品箱子
+lootr:lootr_shulker, 战利品潜影贝
+lootr:trophy, 百次奖杯
 spartanweaponry:material:0, 手柄
 spartanweaponry:material:1, 长杆
 spartanweaponry:material:2, 炸药
@@ -1716,8 +1736,8 @@ appliedenergistics2:facade:0, 线缆伪装板 - 寄染原木
 appliedenergistics2:facade:0, 线缆伪装板 - 寄染石头
 appliedenergistics2:facade:0, 线缆伪装板 - 血色冰
 appliedenergistics2:facade:0, 线缆伪装板 - 寄巢核心
-appliedenergistics2:facade:0, 线缆伪装板 - 寄生种群核心
-appliedenergistics2:facade:0, 线缆伪装板 - 寄生种群前哨
+appliedenergistics2:facade:0, 线缆伪装板 - 聚生地核心
+appliedenergistics2:facade:0, 线缆伪装板 - 聚生地前哨站
 appliedenergistics2:facade:0, 线缆伪装板 - §b生物群系净化器
 appliedenergistics2:facade:0, 线缆伪装板 - 瘢痕木原木
 appliedenergistics2:facade:0, 线缆伪装板 - 脉木原木
@@ -1732,13 +1752,13 @@ appliedenergistics2:facade:0, 线缆伪装板 - 寄巢石头
 appliedenergistics2:facade:0, 线缆伪装板 - 破碎的寄巢石头
 appliedenergistics2:facade:0, 线缆伪装板 - 寄腐木头
 appliedenergistics2:facade:0, 线缆伪装板 - 寄巢石砖
-appliedenergistics2:facade:0, 线缆伪装板 - 寄巢钢块
+appliedenergistics2:facade:0, 线缆伪装板 - 寄巢矿物块
 appliedenergistics2:facade:0, 线缆伪装板 - 血纹黑曜石
 appliedenergistics2:facade:0, 线缆伪装板 - 被同化的菌体
-appliedenergistics2:facade:0, 线缆伪装板 - 未成形的寄生种群结构
+appliedenergistics2:facade:0, 线缆伪装板 - 未成形的聚生地结构
 appliedenergistics2:facade:0, 线缆伪装板 - 压缩寄巢石头
 appliedenergistics2:facade:0, 线缆伪装板 - 硬化寄巢石头
-appliedenergistics2:facade:0, 线缆伪装板 - 寄生压缩种群石头
+appliedenergistics2:facade:0, 线缆伪装板 - 压缩聚生地石头
 appliedenergistics2:facade:0, 线缆伪装板 - 硬实骨块
 appliedenergistics2:facade:0, 线缆伪装板 - 诱饵（§4孱弱§f）
 appliedenergistics2:facade:0, 线缆伪装板 - 诱饵（§c微小§f）
@@ -1750,14 +1770,14 @@ appliedenergistics2:facade:0, 线缆伪装板 - 诱饵（§b压缩 +§f）
 appliedenergistics2:facade:0, 线缆伪装板 - 诱饵（§d压缩 ++§f）
 appliedenergistics2:facade:0, 线缆伪装板 - tile.srparasites.evolutionlure_nine.name
 appliedenergistics2:facade:0, 线缆伪装板 - tile.srparasites.evolutionlure_ten.name
-appliedenergistics2:facade:0, 线缆伪装板 - 寄蚀煤矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 寄蚀钻石矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 寄蚀绿宝石矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 寄蚀金矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 寄蚀铁矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 寄蚀青金石矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 寄蚀红石矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 寄蚀矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 寄染煤矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 寄染钻石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 寄染绿宝石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 寄染金矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 寄染铁矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 寄染青金石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 寄染红石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 寄染矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 百次奖杯
 appliedenergistics2:facade:0, 线缆伪装板 - 赛特斯石英矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 充能赛特斯石英矿石
@@ -1961,6 +1981,53 @@ appliedenergistics2:facade:0, 线缆伪装板 - [腐蚀]意志之瞳
 appliedenergistics2:facade:0, 线缆伪装板 - [破坏]意志之瞳
 appliedenergistics2:facade:0, 线缆伪装板 - [复仇]意志之瞳
 appliedenergistics2:facade:0, 线缆伪装板 - [坚毅]意志之瞳
+appliedenergistics2:facade:0, 线缆伪装板 - 铜矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 铝土矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 铅矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 银矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 镍矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 铀矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 铜块
+appliedenergistics2:facade:0, 线缆伪装板 - 铝块
+appliedenergistics2:facade:0, 线缆伪装板 - 铅块
+appliedenergistics2:facade:0, 线缆伪装板 - 银块
+appliedenergistics2:facade:0, 线缆伪装板 - 镍块
+appliedenergistics2:facade:0, 线缆伪装板 - 铀块
+appliedenergistics2:facade:0, 线缆伪装板 - 康铜块
+appliedenergistics2:facade:0, 线缆伪装板 - 琥珀金块
+appliedenergistics2:facade:0, 线缆伪装板 - 钢块
+appliedenergistics2:facade:0, 线缆伪装板 - 焦炉砖
+appliedenergistics2:facade:0, 线缆伪装板 - 高炉砖
+appliedenergistics2:facade:0, 线缆伪装板 - 强化高炉砖
+appliedenergistics2:facade:0, 线缆伪装板 - 焦煤块
+appliedenergistics2:facade:0, 线缆伪装板 - 麻凝土
+appliedenergistics2:facade:0, 线缆伪装板 - 混凝土
+appliedenergistics2:facade:0, 线缆伪装板 - 混凝土砖
+appliedenergistics2:facade:0, 线缆伪装板 - 镀铅混凝土
+appliedenergistics2:facade:0, 线缆伪装板 - 绝缘玻璃
+appliedenergistics2:facade:0, 线缆伪装板 - 窑砖
+appliedenergistics2:facade:0, 线缆伪装板 - 防腐木板
+appliedenergistics2:facade:0, 线缆伪装板 - 防腐木板
+appliedenergistics2:facade:0, 线缆伪装板 - 防腐木板
+appliedenergistics2:facade:0, 线缆伪装板 - 铜板方块
+appliedenergistics2:facade:0, 线缆伪装板 - 铝板方块
+appliedenergistics2:facade:0, 线缆伪装板 - 铅板方块
+appliedenergistics2:facade:0, 线缆伪装板 - 银板方块
+appliedenergistics2:facade:0, 线缆伪装板 - 镍板方块
+appliedenergistics2:facade:0, 线缆伪装板 - 铀板方块
+appliedenergistics2:facade:0, 线缆伪装板 - 康铜板方块
+appliedenergistics2:facade:0, 线缆伪装板 - 琥珀金板方块
+appliedenergistics2:facade:0, 线缆伪装板 - 钢板方块
+appliedenergistics2:facade:0, 线缆伪装板 - 铁板方块
+appliedenergistics2:facade:0, 线缆伪装板 - 金板方块
+appliedenergistics2:facade:0, 线缆伪装板 - 铜线圈
+appliedenergistics2:facade:0, 线缆伪装板 - 琥珀金线圈
+appliedenergistics2:facade:0, 线缆伪装板 - 高压线圈
+appliedenergistics2:facade:0, 线缆伪装板 - 红石工程块
+appliedenergistics2:facade:0, 线缆伪装板 - 轻型工程块
+appliedenergistics2:facade:0, 线缆伪装板 - 重型工程块
+appliedenergistics2:facade:0, 线缆伪装板 - 发电机模块
+appliedenergistics2:facade:0, 线缆伪装板 - 散热器模块
 appliedenergistics2:facade:0, 线缆伪装板 - 红色树叶
 appliedenergistics2:facade:0, 线缆伪装板 - 黄色树叶
 appliedenergistics2:facade:0, 线缆伪装板 - 橙色树叶
@@ -3247,26 +3314,360 @@ bloodmagic:demon_will_gauge, 灵域测量仪
 bloodmagic:potion_flask, 药剂瓶
 bloodmagic:alchemic_vial, item.bloodmagic.alchemic_vial.name
 bloodmagic:icarus_scroll, 伊卡洛斯卷轴
-cgm:workbench, 枪械工作台
-cgm:handgun, 手枪
-cgm:shotgun, 霰弹枪
-cgm:rifle, 步枪
-cgm:grenade_launcher, 榴弹枪
-cgm:bazooka, 巴祖卡火箭筒
-cgm:chain_gun, 加特林机枪
-cgm:assault_rifle, 突击步枪
-cgm:machine_pistol, 自动手枪
-cgm:basic_ammo, 基础弹药
-cgm:advanced_ammo, 高级弹药
-cgm:shell, 霰弹
-cgm:missile, 导弹
-cgm:grenade, 手榴弹
-cgm:stun_grenade, 闪光弹
-cgm:part:0, item.cgm.part_chain_gun_base.name
-cgm:scope:0, 瞄准镜（短）
-cgm:scope:1, 瞄准镜（中）
-cgm:scope:2, 瞄准镜（长）
-cgm:silencer, 消音器
+immersiveengineering:ore:0, 铜矿石
+immersiveengineering:ore:1, 铝土矿石
+immersiveengineering:ore:2, 铅矿石
+immersiveengineering:ore:3, 银矿石
+immersiveengineering:ore:4, 镍矿石
+immersiveengineering:ore:5, 铀矿石
+immersiveengineering:storage:0, 铜块
+immersiveengineering:storage:1, 铝块
+immersiveengineering:storage:2, 铅块
+immersiveengineering:storage:3, 银块
+immersiveengineering:storage:4, 镍块
+immersiveengineering:storage:5, 铀块
+immersiveengineering:storage:6, 康铜块
+immersiveengineering:storage:7, 琥珀金块
+immersiveengineering:storage:8, 钢块
+immersiveengineering:storage_slab:0, 铜台阶
+immersiveengineering:storage_slab:1, 铝台阶
+immersiveengineering:storage_slab:2, 铅台阶
+immersiveengineering:storage_slab:3, 银台阶
+immersiveengineering:storage_slab:4, 镍台阶
+immersiveengineering:storage_slab:5, 铀台阶
+immersiveengineering:storage_slab:6, 康铜台阶
+immersiveengineering:storage_slab:7, 琥珀金台阶
+immersiveengineering:storage_slab:8, 钢台阶
+immersiveengineering:stone_decoration:0, 焦炉砖
+immersiveengineering:stone_decoration:1, 高炉砖
+immersiveengineering:stone_decoration:2, 强化高炉砖
+immersiveengineering:stone_decoration:3, 焦煤块
+immersiveengineering:stone_decoration:4, 麻凝土
+immersiveengineering:stone_decoration:5, 混凝土
+immersiveengineering:stone_decoration:6, 混凝土砖
+immersiveengineering:stone_decoration:7, 镀铅混凝土
+immersiveengineering:stone_decoration:8, 绝缘玻璃
+immersiveengineering:stone_decoration:10, 窑砖
+immersiveengineering:stone_decoration_slab:0, 焦炉砖台阶
+immersiveengineering:stone_decoration_slab:1, 高炉砖台阶
+immersiveengineering:stone_decoration_slab:2, 强化高炉砖台阶
+immersiveengineering:stone_decoration_slab:4, 麻凝土台阶
+immersiveengineering:stone_decoration_slab:5, 混凝土台阶
+immersiveengineering:stone_decoration_slab:6, 混凝土砖台阶
+immersiveengineering:stone_decoration_slab:7, 镀铅混凝土台阶
+immersiveengineering:stone_decoration_slab:10, 窑砖台阶
+immersiveengineering:stone_decoration_stairs_hempcrete, 麻凝土楼梯
+immersiveengineering:stone_decoration_stairs_concrete, 混凝土楼梯
+immersiveengineering:stone_decoration_stairs_concrete_tile, 混凝土砖楼梯
+immersiveengineering:stone_decoration_stairs_concrete_leaded, 镀铅混凝土楼梯
+immersiveengineering:stone_device:3, 混凝土薄板
+immersiveengineering:stone_device:4, 混凝土板
+immersiveengineering:stone_device:5, 混凝土块
+immersiveengineering:treated_wood:0, 防腐木板
+immersiveengineering:treated_wood:1, 防腐木板
+immersiveengineering:treated_wood:2, 防腐木板
+immersiveengineering:treated_wood_slab:0, 防腐木台阶
+immersiveengineering:treated_wood_slab:1, 防腐木台阶
+immersiveengineering:treated_wood_slab:2, 防腐木台阶
+immersiveengineering:treated_wood_stairs0, 防腐木楼梯
+immersiveengineering:treated_wood_stairs1, 防腐木楼梯
+immersiveengineering:treated_wood_stairs2, 防腐木楼梯
+immersiveengineering:wooden_decoration:0, 防腐木栅栏
+immersiveengineering:wooden_decoration:1, 防腐木脚手架
+immersiveengineering:wooden_device0:0, 木质储存箱
+immersiveengineering:wooden_device0:1, 木桶
+immersiveengineering:wooden_device0:2, 工程师装配台
+immersiveengineering:wooden_device0:3, 物品路由器
+immersiveengineering:wooden_device0:4, 火药桶
+immersiveengineering:wooden_device0:5, 强化储存箱
+immersiveengineering:wooden_device0:6, 旋转台
+immersiveengineering:wooden_device0:7, 流体路由器
+immersiveengineering:wooden_device1:0, 水车
+immersiveengineering:wooden_device1:1, 风车
+immersiveengineering:wooden_device1:3, 木杆
+immersiveengineering:wooden_device1:4, 木质壁挂支架
+immersiveengineering:hemp, 工业大麻
+immersiveengineering:cloth_device:0, 气垫
+immersiveengineering:cloth_device:1, 气球
+immersiveengineering:cloth_device:2, 带状帘
+immersiveengineering:fake_light, tile.immersiveengineering.fake_light.name
+immersiveengineering:sheetmetal:0, 铜板方块
+immersiveengineering:sheetmetal:1, 铝板方块
+immersiveengineering:sheetmetal:2, 铅板方块
+immersiveengineering:sheetmetal:3, 银板方块
+immersiveengineering:sheetmetal:4, 镍板方块
+immersiveengineering:sheetmetal:5, 铀板方块
+immersiveengineering:sheetmetal:6, 康铜板方块
+immersiveengineering:sheetmetal:7, 琥珀金板方块
+immersiveengineering:sheetmetal:8, 钢板方块
+immersiveengineering:sheetmetal:9, 铁板方块
+immersiveengineering:sheetmetal:10, 金板方块
+immersiveengineering:sheetmetal_slab:0, 铜板台阶
+immersiveengineering:sheetmetal_slab:1, 铝板台阶
+immersiveengineering:sheetmetal_slab:2, 铅板台阶
+immersiveengineering:sheetmetal_slab:3, 银板台阶
+immersiveengineering:sheetmetal_slab:4, 镍板台阶
+immersiveengineering:sheetmetal_slab:5, 铀板台阶
+immersiveengineering:sheetmetal_slab:6, 康铜板台阶
+immersiveengineering:sheetmetal_slab:7, 琥珀金板台阶
+immersiveengineering:sheetmetal_slab:8, 钢板台阶
+immersiveengineering:sheetmetal_slab:9, 铁板台阶
+immersiveengineering:sheetmetal_slab:10, 金板台阶
+immersiveengineering:metal_decoration0:0, 铜线圈
+immersiveengineering:metal_decoration0:1, 琥珀金线圈
+immersiveengineering:metal_decoration0:2, 高压线圈
+immersiveengineering:metal_decoration0:3, 红石工程块
+immersiveengineering:metal_decoration0:4, 轻型工程块
+immersiveengineering:metal_decoration0:5, 重型工程块
+immersiveengineering:metal_decoration0:6, 发电机模块
+immersiveengineering:metal_decoration0:7, 散热器模块
+immersiveengineering:metal_decoration1:0, 钢栅栏
+immersiveengineering:metal_decoration1:1, 钢脚手架
+immersiveengineering:metal_decoration1:2, 钢脚手架
+immersiveengineering:metal_decoration1:3, 钢脚手架
+immersiveengineering:metal_decoration1:4, 铝栅栏
+immersiveengineering:metal_decoration1:5, 铝脚手架
+immersiveengineering:metal_decoration1:6, 铝脚手架
+immersiveengineering:metal_decoration1:7, 铝脚手架
+immersiveengineering:metal_decoration2:0, 钢杆
+immersiveengineering:metal_decoration2:1, 钢壁挂支架
+immersiveengineering:metal_decoration2:2, 铝杆
+immersiveengineering:metal_decoration2:3, 铝壁挂支架
+immersiveengineering:metal_decoration2:4, 灯
+immersiveengineering:metal_decoration2:5, 刀片刺网
+immersiveengineering:metal_decoration2:7, 钢结构臂
+immersiveengineering:metal_decoration2:8, 铝结构臂
+immersiveengineering:metal_decoration1_slab:1, 钢脚手架台阶
+immersiveengineering:metal_decoration1_slab:2, 钢脚手架台阶
+immersiveengineering:metal_decoration1_slab:3, 钢脚手架台阶
+immersiveengineering:metal_decoration1_slab:5, 铝脚手架台阶
+immersiveengineering:metal_decoration1_slab:6, 铝脚手架台阶
+immersiveengineering:metal_decoration1_slab:7, 铝脚手架台阶
+immersiveengineering:steel_scaffolding_stairs0, 钢脚手架楼梯
+immersiveengineering:steel_scaffolding_stairs1, 钢脚手架楼梯
+immersiveengineering:steel_scaffolding_stairs2, 钢脚手架楼梯
+immersiveengineering:aluminum_scaffolding_stairs0, 铝脚手架楼梯
+immersiveengineering:aluminum_scaffolding_stairs1, 铝脚手架楼梯
+immersiveengineering:aluminum_scaffolding_stairs2, 铝脚手架楼梯
+immersiveengineering:metal_ladder:0, 金属梯子
+immersiveengineering:metal_ladder:1, 安全梯
+immersiveengineering:metal_ladder:2, 安全梯
+immersiveengineering:connector:0, 低压接线器
+immersiveengineering:connector:1, 低压继电器
+immersiveengineering:connector:2, 中压接线器
+immersiveengineering:connector:3, 中压继电器
+immersiveengineering:connector:4, 高压接线器
+immersiveengineering:connector:5, 高压继电器
+immersiveengineering:connector:6, 结构性接线器
+immersiveengineering:connector:7, 变压器
+immersiveengineering:connector:8, 高压变压器
+immersiveengineering:connector:9, 断路刀闸
+immersiveengineering:connector:10, 红石控制断路刀闸
+immersiveengineering:connector:11, 电流互感器
+immersiveengineering:connector:12, 红石接线器
+immersiveengineering:connector:13, 红石探测接线器
+immersiveengineering:metal_device0:0, 低压电容器
+immersiveengineering:metal_device0:1, 中压电容器
+immersiveengineering:metal_device0:2, 高压电容器
+immersiveengineering:metal_device0:3, 创造电容器
+immersiveengineering:metal_device0:4, 金属桶
+immersiveengineering:metal_device0:5, 液泵
+immersiveengineering:metal_device0:6, 液阀
+immersiveengineering:metal_device1:0, 高炉预热器
+immersiveengineering:metal_device1:1, 外置加热器
+immersiveengineering:metal_device1:2, 动能发电机
+immersiveengineering:metal_device1:3, 热传导发电机
+immersiveengineering:metal_device1:4, 电灯
+immersiveengineering:metal_device1:5, 充电站
+immersiveengineering:metal_device1:6, 输液管
+immersiveengineering:metal_device1:7, 岩芯钻井
+immersiveengineering:metal_device1:8, 特斯拉线圈
+immersiveengineering:metal_device1:9, 泛光灯
+immersiveengineering:metal_device1:10, 化学喷射炮塔
+immersiveengineering:metal_device1:11, 机枪炮塔
+immersiveengineering:metal_device1:13, 园艺玻璃罩
+immersiveengineering:conveyor, tile.immersiveengineering.conveyor.name
+immersiveengineering:material:0, 防腐木棍
+immersiveengineering:material:1, 铁棒
+immersiveengineering:material:2, 钢棒
+immersiveengineering:material:3, 铝棒
+immersiveengineering:material:4, 工业大麻纤维
+immersiveengineering:material:5, 坚韧布料
+immersiveengineering:material:6, 焦煤
+immersiveengineering:material:7, 矿渣
+immersiveengineering:material:8, 铁质机械零件
+immersiveengineering:material:9, 钢质机械零件
+immersiveengineering:material:10, 水车部件
+immersiveengineering:material:11, 风车叶片
+immersiveengineering:material:12, 改良风车叶片
+immersiveengineering:material:13, 木握柄
+immersiveengineering:material:14, 枪管
+immersiveengineering:material:15, 左筒
+immersiveengineering:material:16, 击锤
+immersiveengineering:material:17, 焦煤粉
+immersiveengineering:material:18, 高定向热解石墨粉
+immersiveengineering:material:19, 高定向热解石墨锭
+immersiveengineering:material:20, 铜线
+immersiveengineering:material:21, 琥珀金线
+immersiveengineering:material:22, 铝线
+immersiveengineering:material:23, 钢线
+immersiveengineering:material:24, 硝酸盐粉
+immersiveengineering:material:25, 硫磺粉
+immersiveengineering:material:26, 真空管
+immersiveengineering:material:27, 电路板
+immersiveengineering:metal:0, 铜锭
+immersiveengineering:metal:1, 铝锭
+immersiveengineering:metal:2, 铅锭
+immersiveengineering:metal:3, 银锭
+immersiveengineering:metal:4, 镍锭
+immersiveengineering:metal:5, 铀锭
+immersiveengineering:metal:6, 康铜锭
+immersiveengineering:metal:7, 琥珀金锭
+immersiveengineering:metal:8, 钢锭
+immersiveengineering:metal:9, 铜粉
+immersiveengineering:metal:10, 铝粉
+immersiveengineering:metal:11, 铅粉
+immersiveengineering:metal:12, 银粉
+immersiveengineering:metal:13, 镍粉
+immersiveengineering:metal:14, 铀粉
+immersiveengineering:metal:15, 康铜粉
+immersiveengineering:metal:16, 琥珀金粉
+immersiveengineering:metal:17, 钢粉
+immersiveengineering:metal:18, 铁粉
+immersiveengineering:metal:19, 金粉
+immersiveengineering:metal:20, 铜粒
+immersiveengineering:metal:21, 铝粒
+immersiveengineering:metal:22, 铅粒
+immersiveengineering:metal:23, 银粒
+immersiveengineering:metal:24, 镍粒
+immersiveengineering:metal:25, 铀粒
+immersiveengineering:metal:26, 康铜粒
+immersiveengineering:metal:27, 琥珀金粒
+immersiveengineering:metal:28, 钢粒
+immersiveengineering:metal:29, 铁粒
+immersiveengineering:metal:30, 铜板
+immersiveengineering:metal:31, 铝板
+immersiveengineering:metal:32, 铅板
+immersiveengineering:metal:33, 银板
+immersiveengineering:metal:34, 镍板
+immersiveengineering:metal:35, 铀板
+immersiveengineering:metal:36, 康铜板
+immersiveengineering:metal:37, 琥珀金板
+immersiveengineering:metal:38, 钢板
+immersiveengineering:metal:39, 铁板
+immersiveengineering:metal:40, 金板
+immersiveengineering:tool:0, 工程师锤
+immersiveengineering:tool:1, 工程师剪线钳
+immersiveengineering:tool:2, 工程师电表
+immersiveengineering:tool:3, 工程师手册
+immersiveengineering:pickaxe_steel, 钢镐
+immersiveengineering:shovel_steel, 钢锹
+immersiveengineering:axe_steel, 钢斧
+immersiveengineering:hoe_steel, Steel Hoe
+immersiveengineering:sword_steel, 钢剑
+immersiveengineering:toolbox, 工程师工具箱
+immersiveengineering:wirecoil:0, 低压线圈
+immersiveengineering:wirecoil:1, 中压线圈
+immersiveengineering:wirecoil:2, 高压线圈
+immersiveengineering:wirecoil:3, 麻绳线圈
+immersiveengineering:wirecoil:4, 钢线圈
+immersiveengineering:wirecoil:5, 红石线圈
+immersiveengineering:wirecoil:6, 绝缘低压线圈
+immersiveengineering:wirecoil:7, 绝缘中压线圈
+immersiveengineering:seed:0, 工业大麻种子
+immersiveengineering:drill:0, 采矿机械钻
+immersiveengineering:drillhead:0, 钢质钻头
+immersiveengineering:drillhead:1, 铁质钻头
+immersiveengineering:jerrycan, 油罐
+immersiveengineering:mold:0, 金属冲压模具：板材
+immersiveengineering:mold:1, 金属冲压模具：齿轮
+immersiveengineering:mold:2, 金属冲压模具：金属棒
+immersiveengineering:mold:3, 金属冲压模具：弹壳
+immersiveengineering:mold:4, 金属冲压模具：线缆
+immersiveengineering:mold:5, 金属冲压模具：2x2压缩包
+immersiveengineering:mold:6, 金属冲压模具：3x3压缩包
+immersiveengineering:mold:7, 金属冲压模具：解压包
+immersiveengineering:blueprint, 工程师蓝图
+immersiveengineering:revolver, 左轮手枪
+immersiveengineering:speedloader, 左轮快速装弹器
+immersiveengineering:bullet:0, 小型空弹壳
+immersiveengineering:bullet:1, 大型空弹壳
+immersiveengineering:bullet:2, 卡苏尔弹
+immersiveengineering:bullet:2, 穿甲弹
+immersiveengineering:bullet:2, 鹿弹
+immersiveengineering:bullet:2, 高爆弹
+immersiveengineering:bullet:2, 银弹
+immersiveengineering:bullet:2, 龙息弹
+immersiveengineering:bullet:2, 药剂弹头
+immersiveengineering:bullet:2, 信号弹
+immersiveengineering:bullet:2, 结晶意志弹
+immersiveengineering:bullet:2, 狼群弹
+immersiveengineering:chemthrower, 化学喷射器
+immersiveengineering:railgun, 磁轨炮
+immersiveengineering:skyhook, 工程师天钩
+immersiveengineering:toolupgrade:0, 压缩空气罐
+immersiveengineering:toolupgrade:1, 高级润滑系统
+immersiveengineering:toolupgrade:2, 附加螺旋钻
+immersiveengineering:toolupgrade:3, 大型燃料缸
+immersiveengineering:toolupgrade:4, 刺刀
+immersiveengineering:toolupgrade:5, 扩充弹夹
+immersiveengineering:toolupgrade:6, 加强电子管
+immersiveengineering:toolupgrade:7, 聚焦喷嘴
+immersiveengineering:toolupgrade:8, 瞄准镜
+immersiveengineering:toolupgrade:9, 附加电容
+immersiveengineering:toolupgrade:10, 闪光灯
+immersiveengineering:toolupgrade:11, 震击发生器
+immersiveengineering:toolupgrade:12, 磁力手套
+immersiveengineering:toolupgrade:13, 化学液体罐
+immersiveengineering:shader, 皮肤
+immersiveengineering:shader_bag, 皮肤奖励袋
+immersiveengineering:earmuffs, 隔音耳罩
+immersiveengineering:coresample, 岩芯样本
+immersiveengineering:graphite_electrode, 石墨电极
+immersiveengineering:faraday_suit_feet, 法拉第靴子
+immersiveengineering:faraday_suit_legs, 法拉第护腿
+immersiveengineering:faraday_suit_chest, 法拉第胸甲
+immersiveengineering:faraday_suit_head, 法拉第头盔
+immersiveengineering:fluorescent_tube, 荧光管
+immersiveengineering:powerpack, 电容背包
+immersiveengineering:shield, 重型盾牌
+immersiveengineering:maintenance_kit, 维护工具包
+immersiveengineering:steel_armor_feet, 钢靴子
+immersiveengineering:steel_armor_legs, 钢护腿
+immersiveengineering:steel_armor_chest, 钢胸甲
+immersiveengineering:steel_armor_head, 钢头盔
+dynamicstealth:handmirror, Hand Mirror
+overlast:beef_pickaxe, 牛肉镐
+overlast:wooden_sword_plus, §6木剑+18
+overlast:baseball_pole, §6送你见上帝
+overlast:chocolate_smoothie, 巧克力沙冰
+overlast:ice_spear, 冰棍
+overlast:pollute_bowl_herbal, 寄源草药
+overlast:bowl_herbal, 净化草药
+overlast:melon_ice, 西瓜棒冰
+overlast:drinking_potion:0, item.overlast.drinking_potion_0.name
+overlast:drinking_potion:1, 饮用型寄生净化药水
+overlast:drinking_potion:2, 饮用型寄生感染药水
+overlast:drinking_potion:3, 浓缩型寄生感染药水
+overlast:injected_potion, 注射型针剂
+overlast:ice_sucker, 印度手搓小冰棍
+overlast:dumpling, 饺子
+overlast:evo_device, 节点探测器
+overlast:boss_chip, 本源触须
+overlast:hero_shield, 勇者之盾
+overlast:red_leaves, 红色树叶
+overlast:yellow_leaves, 黄色树叶
+overlast:orange_leaves, 橙色树叶
+overlast:blue_leaves, 冰洁树叶
+overlast:brown_leaves, 枯萎树叶
+overlast:blockpurifier, 方块净化器
+overlast:winter_core, 永冻核心
+overlast:summer_core, 下界核心
+overlast:specimen_farm, 样本方块（农业）
+overlast:specimen_cell, 样本方块（细胞）
+overlast:specimen_infect, 样本方块（感染）
+overlast:final_specimen, 世界净化核心
+overlast:crops, 作物桶
 srpmeshi:roasted_buglin, 烤虫灵
 srpmeshi:rupter_ramen, 裂兽拉面
 srpmeshi:raw_fangs, 生利齿肋排
@@ -3290,7 +3691,6 @@ srpmeshi:rotdog, Rotdog
 srpmeshi:vilebeefr, Raw Vilebeef
 srpmeshi:vilebeefu, Uncooked Vilesteak
 srpmeshi:vilebeefc, Cooked Vilesteak
-dynamicstealth:handmirror, Hand Mirror
 swparasites:infectious_long_blade_fragment, §e感染的长刃碎片
 swparasites:hardened_bone_pole, §e硬骨手柄
 swparasites:living_nucleus, §e活体凝核
@@ -3340,35 +3740,4 @@ swparasites:buckler_shield_living, §e活体圆盾
 swparasites:buckler_shield_sentient, §6觉知圆盾
 swparasites:impaler_shield_living, §e活体刺盾
 swparasites:impaler_shield_sentient, §6觉知刺盾
-overlast:beef_pickaxe, 牛肉镐
-overlast:wooden_sword_plus, §6木剑+18
-overlast:baseball_pole, §6送你见上帝
-overlast:chocolate_smoothie, 巧克力沙冰
-overlast:ice_spear, 冰棍
-overlast:pollute_bowl_herbal, 寄源草药
-overlast:bowl_herbal, 净化草药
-overlast:melon_ice, 西瓜棒冰
-overlast:drinking_potion:0, item.overlast.drinking_potion_0.name
-overlast:drinking_potion:1, 饮用型寄生净化药水
-overlast:drinking_potion:2, 饮用型寄生感染药水
-overlast:drinking_potion:3, 浓缩型寄生感染药水
-overlast:injected_potion, 注射型针剂
-overlast:ice_sucker, 印度手搓小冰棍
-overlast:dumpling, 饺子
-overlast:evo_device, 节点探测器
-overlast:boss_chip, 本源触须
-overlast:hero_shield, 勇者之盾
-overlast:red_leaves, 红色树叶
-overlast:yellow_leaves, 黄色树叶
-overlast:orange_leaves, 橙色树叶
-overlast:blue_leaves, 冰洁树叶
-overlast:brown_leaves, 枯萎树叶
-overlast:blockpurifier, 方块净化器
-overlast:winter_core, 永冻核心
-overlast:summer_core, 下界核心
-overlast:specimen_farm, 样本方块（农业）
-overlast:specimen_cell, 样本方块（细胞）
-overlast:specimen_infect, 样本方块（感染）
-overlast:final_specimen, 世界净化核心
-overlast:crops, 作物桶
 guideapi:bloodmagic-guide, item.guideapi.book.bloodmagic.guide.name

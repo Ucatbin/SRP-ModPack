@@ -29,6 +29,7 @@ minecraft:lure
 minecraft:mending
 minecraft:vanishing_curse
 spartanshields:ssenchspikes
+overlast:srpkiller
 spartanweaponry:propulsion
 spartanweaponry:razors_edge
 spartanweaponry:incendiary
@@ -40,4 +41,3 @@ spartanweaponry:return
 spartanweaponry:rapid_load
 spartanweaponry:spreadshot
 spartanweaponry:sharpshooter
-overlast:srpkiller
