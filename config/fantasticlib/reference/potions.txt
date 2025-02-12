@@ -52,7 +52,6 @@ overlast:parasites_infect
 overlast:cool
 overlast:fortunate
 overlast:evil
-hordes:infected
 bloodmagic:boost
 bloodmagic:whirlwind
 bloodmagic:planar_binding

@@ -319,10 +319,10 @@ srparasites:canisteractive
 srparasites:dispatchern
 srparasites:infestedore
 cgm:workbench
-lootr:lootr_chest
-lootr:lootr_trapped_chest
 lootr:lootr_shulker
+lootr:lootr_trapped_chest
 lootr:lootr_inventory
+lootr:lootr_chest
 lootr:trophy
 treechop:chopped_log_pillar
 treechop:chopped_log_corner_nw

@@ -443,6 +443,7 @@ flammpfeil.slashblade:slashbladewhite
 flammpfeil.slashblade:slashbladewrapper
 flammpfeil.slashblade:slashbladenamed
 forge:bucketfilled
+srparasites:parasiterubble_slabhalf
 srparasites:infestedstain
 srparasites:infestremain
 srparasites:infestedtrunk
@@ -621,7 +622,6 @@ srparasites:armor_helm_sentient
 srparasites:armor_chest_sentient
 srparasites:armor_pants_sentient
 srparasites:armor_boots_sentient
-srparasites:parasiterubble_slabhalf
 cgm:workbench
 cgm:handgun
 cgm:shotgun

@@ -215,7 +215,6 @@ srpextra:hijacked_skeleton_head
 srpextra:sim_witch
 srpextra:sim_witch_head
 srpextra:hijacked_skeleton_stray
-hordes:zombie_player
 lootr:lootr_minecart
 spartanweaponry:bolt
 spartanweaponry:bolt_specral
