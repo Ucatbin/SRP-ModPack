@@ -7,6 +7,7 @@
 /screenshots
 /shaderpacks
 /.mixin.out
+/local
 options.txt
 optionsof.txt
 optionsshaders.txt
@@ -14,6 +15,7 @@ usercache.json
 usernamecache.json
 crafttweaker.log
 launcher_profiles.json
+jei_bookmarks.ini
 PCL.ini
 /config/splash.properties
 /config/fantasticlib
