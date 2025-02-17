@@ -364,10 +364,10 @@ dynamictrees:darkoakroot
 dynamictrees:cactusbranch
 dynamictrees:leaves0
 dynamictrees:leaves1
-lootr:lootr_chest
 lootr:lootr_trapped_chest
-lootr:lootr_shulker
 lootr:lootr_inventory
+lootr:lootr_shulker
+lootr:lootr_chest
 lootr:trophy
 appliedenergistics2:quartz_ore
 appliedenergistics2:charged_quartz_ore
@@ -475,7 +475,6 @@ mekanismmultiblockmachine:multiblockgenerator
 mekanismmultiblockmachine:multiblockmachine
 mekanismmultiblockmachine:midsizegastank
 mekanismmultiblockmachine:multiblockgastank
-simpleoregen:cheshirerose
 simpleoregen:surfacealuminumore
 simpleoregen:surfacearditeore
 simpleoregen:surfacecobaltore
@@ -573,6 +572,7 @@ simpleoregen:endsheldoniteore
 simpleoregen:endperidotore
 simpleoregen:endsodaliteore
 simpleoregen:endzincore
+simpleoregen:cheshirerose
 bloodmagic:altar
 bloodmagic:blood_rune
 bloodmagic:ritual_controller
