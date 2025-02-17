@@ -47,9 +47,6 @@ srparasites:debar
 srparasites:foster
 srparasites:link
 srparasites:pivot
-dynamicstealth:soulsight
-dynamicstealth:blindness
-dynamicstealth:glowing
 overlast:heat_radiation
 overlast:over_heating
 overlast:hypothermia

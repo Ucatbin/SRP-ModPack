@@ -408,3 +408,5 @@ bamboo
 spartanweaponry:quivers
 spartanweaponry:arrow_quivers
 spartanweaponry:bolt_quivers
+food
+seed

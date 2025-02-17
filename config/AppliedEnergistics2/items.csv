@@ -650,24 +650,6 @@ sereneseasons:season_sensor_autumn:0, 季节传感器【秋】
 sereneseasons:season_sensor_winter:0, 季节传感器【冬】
 sereneseasons:ss_icon, 静谧四季标志
 sereneseasons:season_clock, 季节指示器
-minetraps:barbed_wire, 铁丝网方块
-minetraps:razor_wire, Razor Wire
-minetraps:barbed_wire_fence, Barbed Wire Fence
-minetraps:obstacle, Obstacle
-minetraps:fall_trap, Fall Trap
-minetraps:mud, 泥巴
-minetraps:quicksand, Quicksand
-minetraps:chest_bomb, Chest Bomb
-minetraps:spikes, Spikes
-minetraps:spikes_toxic, Toxic Spikes
-minetraps:wall_spikes, Wall Spikes
-minetraps:nail_trap, Nail Trap
-minetraps:toxic_nail_trap, Toxic Nail Trap
-minetraps:explosive_mine, Mine
-minetraps:toxic_mine, Toxic Mine
-minetraps:bear_trap, 捕熊陷阱
-minetraps:nails, Nails
-minetraps:toxin_bottle, Toxin
 flammpfeil.slashblade:proudsoul:0, 耀魂碎片
 flammpfeil.slashblade:proudsoul:0, 耀魂碎片
 flammpfeil.slashblade:proudsoul:1, 耀魂铁锭
@@ -712,7 +694,21 @@ flammpfeil.slashblade:slashbladewhite, 利刀「白鞘」
 flammpfeil.slashblade:slashbladewrapper, 鞘
 flammpfeil.slashblade:slashbladenamed, 无铭「无名」
 forge:bucketfilled, %s桶
-srparasites:parasiterubble_slabhalf:0, 硬实骨块台阶
+itemfilters:filter, 物品过滤器
+itemfilters:missing, 缺少物品
+ftbquests:screen, 任务显示器
+ftbquests:progress_detector, 任务进度检测器
+ftbquests:detector:0, 红石检测器
+ftbquests:detector:1, 玩家检测器
+ftbquests:progress_screen, 进度显示器
+ftbquests:chest, 任务箱子
+ftbquests:loot_crate_storage, 奖励箱存储器
+ftbquests:loot_crate_opener, 奖励箱开箱器
+ftbquests:barrier, 任务屏障
+ftbquests:reward_collector, Reward Collector
+ftbquests:book, 任务书
+ftbquests:lootcrate, 奖励箱
+ftbquests:custom_icon, 自定义图标
 srparasites:infestedstain, 寄染泥土
 srparasites:infestremain, 寄染残渣
 srparasites:infestedtrunk, 寄染原木
@@ -949,26 +945,7 @@ srparasites:armor_helm_sentient, §6觉知头盔
 srparasites:armor_chest_sentient, §6觉知胸甲
 srparasites:armor_pants_sentient, §6觉知护腿
 srparasites:armor_boots_sentient, §6觉知靴子
-cgm:workbench, 枪械工作台
-cgm:handgun, 手枪
-cgm:shotgun, 霰弹枪
-cgm:rifle, 步枪
-cgm:grenade_launcher, 榴弹枪
-cgm:bazooka, 巴祖卡火箭筒
-cgm:chain_gun, 加特林机枪
-cgm:assault_rifle, 突击步枪
-cgm:machine_pistol, 自动手枪
-cgm:basic_ammo, 基础弹药
-cgm:advanced_ammo, 高级弹药
-cgm:shell, 霰弹
-cgm:missile, 导弹
-cgm:grenade, 手榴弹
-cgm:stun_grenade, 闪光弹
-cgm:part:0, item.cgm.part_chain_gun_base.name
-cgm:scope:0, 瞄准镜（短）
-cgm:scope:1, 瞄准镜（中）
-cgm:scope:2, 瞄准镜（长）
-cgm:silencer, 消音器
+srparasites:parasiterubble_slabhalf:0, 硬实骨块台阶
 spartanshields:shield_basic_wood, 粗砺木盾牌
 spartanshields:shield_basic_stone, 石头镶框盾牌
 spartanshields:shield_basic_iron, 铁镶板盾牌
@@ -1031,6 +1008,37 @@ srpextra:itemmobspawner_assimilatedwitch_head, 被同化的女巫头颅刷怪蛋
 srpextra:itemremains_check, 遗骸分析器
 srpextra:itemremains_spawn, 遗骸复活器
 srpextra:itemremains_canister, 遗骸存储罐
+srpmeteor:meteor_locator, Meteor Locator
+srpmeteor:meteorite, §c陨石残骸
+srpmeteor:meteorite_core, §cMeteorite Core
+coroutil:repairing_block, 修复方块
+coroutil:item_repairing_gel, 修复凝胶
+dynamictrees:dendropotion:0, 木炭溶液
+dynamictrees:dendropotion:1, 枯竭药水
+dynamictrees:dendropotion:2, Potion of Gigas
+dynamictrees:dendropotion:3, 生长药水
+dynamictrees:dendropotion:6, 转生药水
+dynamictrees:dirtbucket, 泥桶
+dynamictrees:staff, 森林之杖
+dynamictrees:appleseed, 苹果仁
+dynamictrees:oakbranch, 有活力的橡木
+dynamictrees:oakbranchx, tile.dynamictrees:oakbranchx.name
+dynamictrees:oakseed, 橡子
+dynamictrees:sprucebranch, 有活力的云杉木
+dynamictrees:sprucebranchx, tile.dynamictrees:sprucebranchx.name
+dynamictrees:spruceseed, 云杉球果
+dynamictrees:birchbranch, 有活力的白桦木
+dynamictrees:birchseed, 白桦絮
+dynamictrees:junglebranch, 有活力的丛林木
+dynamictrees:junglebranchx, tile.dynamictrees:junglebranchx.name
+dynamictrees:jungleseed, 丛林木荚
+dynamictrees:acaciabranch, 有活力的金合欢木
+dynamictrees:acaciaseed, 金合欢种子
+dynamictrees:darkoakbranch, 有活力的深色橡木
+dynamictrees:darkoakbranchx, tile.dynamictrees:darkoakbranchx.name
+dynamictrees:darkoakseed, 深色橡子
+dynamictrees:cactusbranch, 有活力的仙人掌
+dynamictrees:cactusseed, 仙人掌种子
 lootr:lootr_chest, 战利品箱子
 lootr:lootr_trapped_chest, 战利品箱子
 lootr:lootr_shulker, 战利品潜影贝
@@ -1728,9 +1736,6 @@ appliedenergistics2:facade:0, 线缆伪装板 - 棕色混凝土粉末
 appliedenergistics2:facade:0, 线缆伪装板 - 绿色混凝土粉末
 appliedenergistics2:facade:0, 线缆伪装板 - 红色混凝土粉末
 appliedenergistics2:facade:0, 线缆伪装板 - 黑色混凝土粉末
-appliedenergistics2:facade:0, 线缆伪装板 - Obstacle
-appliedenergistics2:facade:0, 线缆伪装板 - 泥巴
-appliedenergistics2:facade:0, 线缆伪装板 - Quicksand
 appliedenergistics2:facade:0, 线缆伪装板 - 寄染泥土
 appliedenergistics2:facade:0, 线缆伪装板 - 寄染原木
 appliedenergistics2:facade:0, 线缆伪装板 - 寄染石头
@@ -1778,6 +1783,8 @@ appliedenergistics2:facade:0, 线缆伪装板 - 寄染铁矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 寄染青金石矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 寄染红石矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 寄染矿石
+appliedenergistics2:facade:0, 线缆伪装板 - §c陨石残骸
+appliedenergistics2:facade:0, 线缆伪装板 - §cMeteorite Core
 appliedenergistics2:facade:0, 线缆伪装板 - 百次奖杯
 appliedenergistics2:facade:0, 线缆伪装板 - 赛特斯石英矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 充能赛特斯石英矿石
@@ -1898,6 +1905,103 @@ appliedenergistics2:facade:0, 线缆伪装板 - 超临界移相器外壳[WIP]
 appliedenergistics2:facade:0, 线缆伪装板 - 裂变反应堆外壳[WIP]
 appliedenergistics2:facade:0, 线缆伪装板 - 控制棒组件[WIP]
 appliedenergistics2:facade:0, 线缆伪装板 - 裂变燃料组件[WIP]
+appliedenergistics2:facade:0, 线缆伪装板 - 铝土矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 阿迪特矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 钴矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 铜矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 双锂矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 铱矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 铅矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 磁石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 镍矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 铂矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 石英矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 银矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 锡矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 铀矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 黄铁矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 朱砂矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 红宝石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 金红石
+appliedenergistics2:facade:0, 线缆伪装板 - 蓝宝石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 方铅矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 钨矿砂矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 月光石
+appliedenergistics2:facade:0, 线缆伪装板 - 橄榄石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 方钠石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 锌矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界铝土矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界阿迪特矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界赛特斯石英矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界充能赛特斯石英矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界煤矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界钴矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界铜矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界朱砂矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界钻石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界双锂矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界绿宝石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界铱矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界铁矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界金矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界青金石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界铅矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界磁铁矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界镍矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界锇矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界铂矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界黄铁矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界石英矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界红石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界银矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界闪锌矿矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界锡矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界铀矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界方铅矿矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界红宝石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界金红石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界蓝宝石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界钨矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界月光石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界橄榄石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界方钠石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 下界锌矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地铝土矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地阿迪特矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地赛特斯石英矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地充能赛特斯石英矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地煤矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地钴矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地铜矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地钻石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地双锂矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地绿宝石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地铱矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地铁矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地金矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地青金石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地铅矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地磁铁矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地镍矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地锇矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地石英矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地铂矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地红石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地银矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地锡矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地铀矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地方铅矿矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地红宝石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地金红石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地蓝宝石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地黄铁矿矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地朱砂矿矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地闪锌矿矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地钨矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地月光石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地橄榄石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地方钠石矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 末地锌矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 空白符文
 appliedenergistics2:facade:0, 线缆伪装板 - 速度符文
 appliedenergistics2:facade:0, 线缆伪装板 - 效率符文
@@ -1981,6 +2085,71 @@ appliedenergistics2:facade:0, 线缆伪装板 - [腐蚀]意志之瞳
 appliedenergistics2:facade:0, 线缆伪装板 - [破坏]意志之瞳
 appliedenergistics2:facade:0, 线缆伪装板 - [复仇]意志之瞳
 appliedenergistics2:facade:0, 线缆伪装板 - [坚毅]意志之瞳
+appliedenergistics2:facade:0, 线缆伪装板 - 仙人掌木板
+appliedenergistics2:facade:0, 线缆伪装板 - tile.structurize.blockSolidSubstitution.name
+appliedenergistics2:facade:0, 线缆伪装板 - 占位符方块
+appliedenergistics2:facade:0, 线缆伪装板 - 橡木普通木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 橡木十字木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 橡木镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 橡木镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 橡木镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 橡木左下-右上向斜线木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 橡木左上-右下向斜线木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 橡木镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 橡木水平木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 橡木水平木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 云杉普通木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 云杉十字木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 云杉镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 云杉镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 云杉镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 云杉左上-右下向斜线木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 云杉左下-右上向斜线木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 云杉镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 云杉水平木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 云杉水平木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 白桦普通木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 白桦十字木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 白桦镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 白桦镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 白桦镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 白桦左上-右下向斜线木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 白桦左下-右上向斜线木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 白桦镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 白桦水平木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 白桦水平木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 丛林普通木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 丛林十字木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 丛林镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 丛林镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 丛林镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 丛林左上-右下向斜线木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 丛林左下-右上向斜线木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 丛林镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 丛林水平木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 丛林水平木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 金合欢普通木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 金合欢十字木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 金合欢镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 金合欢镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 金合欢镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 金合欢左上-右下向斜线木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 金合欢左下-右上向斜线木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 金合欢镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 金合欢水平木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 金合欢水平木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 深色橡木普通木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 深色橡木十字木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 深色橡木镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 深色橡木镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 深色橡木镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 深色橡木左上-右下向斜线木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 深色橡木左下-右上向斜线木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 深色橡木镶边木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 深色橡木水平木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 深色橡木水平木质框架
+appliedenergistics2:facade:0, 线缆伪装板 - 兵营塔占位符
+appliedenergistics2:facade:0, 线缆伪装板 - 路径点占位方块
 appliedenergistics2:facade:0, 线缆伪装板 - 铜矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 铝土矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 铅矿石
@@ -2987,6 +3156,119 @@ mekanismmultiblockmachine:multiblockmachine:2, 大型化学清洗机
 mekanismmultiblockmachine:multiblockmachine:3, 数字组装机
 mekanismmultiblockmachine:midsizegastank, 中型气体储罐
 mekanismmultiblockmachine:multiblockgastank, 大型气体储罐
+simpleoregen:surfacealuminumore, 铝土矿石
+simpleoregen:surfacearditeore, 阿迪特矿石
+simpleoregen:surfacecobaltore, 钴矿石
+simpleoregen:surfacecopperore, 铜矿石
+simpleoregen:surfacedilithiumore, 双锂矿石
+simpleoregen:surfaceiridiumore, 铱矿石
+simpleoregen:surfaceleadore, 铅矿石
+simpleoregen:surfacemagnetiteore, 磁石矿石
+simpleoregen:surfacenickelore, 镍矿石
+simpleoregen:surfaceplatinumore, 铂矿石
+simpleoregen:surfacequartzore, 石英矿石
+simpleoregen:surfacesilverore, 银矿石
+simpleoregen:surfacetinore, 锡矿石
+simpleoregen:surfaceuraniumore, 铀矿石
+simpleoregen:surfacepyriteore, 黄铁矿石
+simpleoregen:surfacecinnabarore, 朱砂矿石
+simpleoregen:surfacerubyore, 红宝石矿石
+simpleoregen:surfacerutileore, 金红石
+simpleoregen:surfacesapphireore, 蓝宝石矿石
+simpleoregen:surfacesphaleriteore, 方铅矿石
+simpleoregen:surfacetungstenore, 钨矿砂矿石
+simpleoregen:surfacesheldoniteore, 月光石
+simpleoregen:surfaceperidotore, 橄榄石矿石
+simpleoregen:surfacesodaliteore, 方钠石矿石
+simpleoregen:surfacezincore, 锌矿石
+simpleoregen:netheraluminumore, 下界铝土矿石
+simpleoregen:netherarditeore, 下界阿迪特矿石
+simpleoregen:nethercertusquartzore, 下界赛特斯石英矿石
+simpleoregen:netherchargedcertusquartzore, 下界充能赛特斯石英矿石
+simpleoregen:nethercoalore, 下界煤矿石
+simpleoregen:nethercobaltore, 下界钴矿石
+simpleoregen:nethercopperore, 下界铜矿石
+simpleoregen:nethercinnabarore, 下界朱砂矿石
+simpleoregen:netherdiamondore, 下界钻石
+simpleoregen:netherdilithiumore, 下界双锂矿石
+simpleoregen:netheremeraldore, 下界绿宝石矿石
+simpleoregen:netheriridiumore, 下界铱矿石
+simpleoregen:netherironore, 下界铁矿石
+simpleoregen:nethergoldore, 下界金矿石
+simpleoregen:netherlapisore, 下界青金石矿石
+simpleoregen:netherleadore, 下界铅矿石
+simpleoregen:nethermagnetiteore, 下界磁铁矿石
+simpleoregen:nethernickelore, 下界镍矿石
+simpleoregen:netherosmiumore, 下界锇矿石
+simpleoregen:netherplatinumore, 下界铂矿石
+simpleoregen:netherpyriteore, 下界黄铁矿石
+simpleoregen:netherquartzore, 下界石英矿石
+simpleoregen:netherredstoneore, 下界红石矿石
+simpleoregen:nethersilverore, 下界银矿石
+simpleoregen:nethersphaleriteore, 下界闪锌矿矿石
+simpleoregen:nethertinore, 下界锡矿石
+simpleoregen:netheruraniumore, 下界铀矿石
+simpleoregen:nethergalenaore, 下界方铅矿矿石
+simpleoregen:netherrubyore, 下界红宝石矿石
+simpleoregen:netherrutileore, 下界金红石矿石
+simpleoregen:nethersapphireore,  下界蓝宝石矿石
+simpleoregen:nethertungstenore, 下界钨矿石
+simpleoregen:nethersheldoniteore, 下界月光石矿石
+simpleoregen:netherperidotore, 下界橄榄石矿石
+simpleoregen:nethersodaliteore, 下界方钠石矿石
+simpleoregen:netherzincore, 下界锌矿石
+simpleoregen:endaluminumore, 末地铝土矿石
+simpleoregen:endarditeore, 末地阿迪特矿石
+simpleoregen:endcertusquartzore, 末地赛特斯石英矿石
+simpleoregen:endchargedcertusquartzore, 末地充能赛特斯石英矿石
+simpleoregen:endcoalore, 末地煤矿石
+simpleoregen:endcobaltore, 末地钴矿石
+simpleoregen:endcopperore, 末地铜矿石
+simpleoregen:enddiamondore, 末地钻石矿石
+simpleoregen:enddilithiumore, 末地双锂矿石
+simpleoregen:endemeraldore, 末地绿宝石矿石
+simpleoregen:endiridiumore, 末地铱矿石
+simpleoregen:endironore, 末地铁矿石
+simpleoregen:endgoldore, 末地金矿石
+simpleoregen:endlapisore, 末地青金石矿石
+simpleoregen:endleadore, 末地铅矿石
+simpleoregen:endmagnetiteore, 末地磁铁矿石
+simpleoregen:endnickelore, 末地镍矿石
+simpleoregen:endosmiumore, 末地锇矿石
+simpleoregen:endquartzore, 末地石英矿石
+simpleoregen:endplatinumore, 末地铂矿石
+simpleoregen:endredstoneore, 末地红石矿石
+simpleoregen:endsilverore, 末地银矿石
+simpleoregen:endtinore, 末地锡矿石
+simpleoregen:enduraniumore, 末地铀矿石
+simpleoregen:endgalenaore, 末地方铅矿矿石
+simpleoregen:endrubyore, 末地红宝石矿石
+simpleoregen:endrutileore, 末地金红石矿石
+simpleoregen:endsapphireore, 末地蓝宝石矿石
+simpleoregen:endpyriteore, 末地黄铁矿矿石
+simpleoregen:endcinnabarore, 末地朱砂矿矿石
+simpleoregen:endsphaleriteore, 末地闪锌矿矿石
+simpleoregen:endtungstenore, 末地钨矿石
+simpleoregen:endsheldoniteore, 末地月光石矿石
+simpleoregen:endperidotore, 末地橄榄石矿石
+simpleoregen:endsodaliteore, 末地方钠石矿石
+simpleoregen:endzincore, 末地锌矿石
+simpleoregen:aluminumingot, 铝锭
+simpleoregen:copperingot, 铜锭
+simpleoregen:iridiumingot, 铱锭
+simpleoregen:leadingot, 铅锭
+simpleoregen:nickelingot, 镍锭
+simpleoregen:platinumingot, 铂锭
+simpleoregen:quartz, 石英
+simpleoregen:ruby, 红宝石
+simpleoregen:sapphire, 蓝宝石
+simpleoregen:silveringot, 银锭
+simpleoregen:tiningot, 锡锭
+simpleoregen:titaniumingot, 钛锭
+simpleoregen:uraniumingot, 铀锭
+simpleoregen:heartdiamond, 心形钻石
+simpleoregen:zincingot, 锌锭
+simpleoregen:cheshirerose, 金樱子
 bloodmagic:altar, 血之祭坛
 bloodmagic:blood_rune:0, 空白符文
 bloodmagic:blood_rune:1, 速度符文
@@ -3314,6 +3596,157 @@ bloodmagic:demon_will_gauge, 灵域测量仪
 bloodmagic:potion_flask, 药剂瓶
 bloodmagic:alchemic_vial, item.bloodmagic.alchemic_vial.name
 bloodmagic:icarus_scroll, 伊卡洛斯卷轴
+structurize:sceptergold, 建筑工具
+structurize:shapetool, 形状工具
+structurize:sceptersteel, 扫描工具
+structurize:cactusdoor, 仙人掌门
+structurize:caliper, 卡尺
+structurize:blocksolidsubstitution, tile.structurize.blockSolidSubstitution.name
+structurize:blocksubstitution, 占位符方块
+structurize:blockpaperwall:0, 纸墙
+structurize:blockpaperwall:1, 纸墙
+structurize:blockpaperwall:2, 纸墙
+structurize:blockpaperwall:3, 纸墙
+structurize:blockshingle_oak, 橡木砖瓦顶
+structurize:blockshingle_birch, 桦木砖瓦顶
+structurize:blockshingle_jungle, 丛林木砖瓦顶
+structurize:blockshingle_spruce, 云杉木砖瓦顶
+structurize:blockshingle_dark_oak, 深色橡木砖瓦顶
+structurize:blockshingle_acacia, 金合欢木砖瓦顶
+structurize:blockshingleslab, 砖瓦台阶
+structurize:blockcactusplank, 仙人掌木板
+structurize:blockcactustrapdoor, 仙人掌活板门
+structurize:blockcactusstair, 仙人掌楼梯
+structurize:blockcactusslab_half:0, 仙人掌台阶
+structurize:blockcactusfence, 仙人掌栅栏
+structurize:blockcactusfencegate, 仙人掌栅栏门
+structurize:blocktimberframe_oak_plain, 橡木普通木质框架
+structurize:blocktimberframe_oak_doublecrossed, 橡木十字木质框架
+structurize:blocktimberframe_oak_framed, 橡木镶边木质框架
+structurize:blocktimberframe_oak_sideframed, 橡木镶边木质框架
+structurize:blocktimberframe_oak_gateframed, 橡木镶边木质框架
+structurize:blocktimberframe_oak_onecrossedlr, 橡木左下-右上向斜线木质框架
+structurize:blocktimberframe_oak_onecrossedrl, 橡木左上-右下向斜线木质框架
+structurize:blocktimberframe_oak_downgated, 橡木镶边木质框架
+structurize:blocktimberframe_oak_horizontalplain, 橡木水平木质框架
+structurize:blocktimberframe_oak_horizontalnocap, 橡木水平木质框架
+structurize:blocktimberframe_spruce_plain, 云杉普通木质框架
+structurize:blocktimberframe_spruce_doublecrossed, 云杉十字木质框架
+structurize:blocktimberframe_spruce_framed, 云杉镶边木质框架
+structurize:blocktimberframe_spruce_sideframed, 云杉镶边木质框架
+structurize:blocktimberframe_spruce_gateframed, 云杉镶边木质框架
+structurize:blocktimberframe_spruce_onecrossedlr, 云杉左上-右下向斜线木质框架
+structurize:blocktimberframe_spruce_onecrossedrl, 云杉左下-右上向斜线木质框架
+structurize:blocktimberframe_spruce_downgated, 云杉镶边木质框架
+structurize:blocktimberframe_spruce_horizontalplain, 云杉水平木质框架
+structurize:blocktimberframe_spruce_horizontalnocap, 云杉水平木质框架
+structurize:blocktimberframe_birch_plain, 白桦普通木质框架
+structurize:blocktimberframe_birch_doublecrossed, 白桦十字木质框架
+structurize:blocktimberframe_birch_framed, 白桦镶边木质框架
+structurize:blocktimberframe_birch_sideframed, 白桦镶边木质框架
+structurize:blocktimberframe_birch_gateframed, 白桦镶边木质框架
+structurize:blocktimberframe_birch_onecrossedlr, 白桦左上-右下向斜线木质框架
+structurize:blocktimberframe_birch_onecrossedrl, 白桦左下-右上向斜线木质框架
+structurize:blocktimberframe_birch_downgated, 白桦镶边木质框架
+structurize:blocktimberframe_birch_horizontalplain, 白桦水平木质框架
+structurize:blocktimberframe_birch_horizontalnocap, 白桦水平木质框架
+structurize:blocktimberframe_jungle_plain, 丛林普通木质框架
+structurize:blocktimberframe_jungle_doublecrossed, 丛林十字木质框架
+structurize:blocktimberframe_jungle_framed, 丛林镶边木质框架
+structurize:blocktimberframe_jungle_sideframed, 丛林镶边木质框架
+structurize:blocktimberframe_jungle_gateframed, 丛林镶边木质框架
+structurize:blocktimberframe_jungle_onecrossedlr, 丛林左上-右下向斜线木质框架
+structurize:blocktimberframe_jungle_onecrossedrl, 丛林左下-右上向斜线木质框架
+structurize:blocktimberframe_jungle_downgated, 丛林镶边木质框架
+structurize:blocktimberframe_jungle_horizontalplain, 丛林水平木质框架
+structurize:blocktimberframe_jungle_horizontalnocap, 丛林水平木质框架
+structurize:blocktimberframe_acacia_plain, 金合欢普通木质框架
+structurize:blocktimberframe_acacia_doublecrossed, 金合欢十字木质框架
+structurize:blocktimberframe_acacia_framed, 金合欢镶边木质框架
+structurize:blocktimberframe_acacia_sideframed, 金合欢镶边木质框架
+structurize:blocktimberframe_acacia_gateframed, 金合欢镶边木质框架
+structurize:blocktimberframe_acacia_onecrossedlr, 金合欢左上-右下向斜线木质框架
+structurize:blocktimberframe_acacia_onecrossedrl, 金合欢左下-右上向斜线木质框架
+structurize:blocktimberframe_acacia_downgated, 金合欢镶边木质框架
+structurize:blocktimberframe_acacia_horizontalplain, 金合欢水平木质框架
+structurize:blocktimberframe_acacia_horizontalnocap, 金合欢水平木质框架
+structurize:blocktimberframe_dark_oak_plain, 深色橡木普通木质框架
+structurize:blocktimberframe_dark_oak_doublecrossed, 深色橡木十字木质框架
+structurize:blocktimberframe_dark_oak_framed, 深色橡木镶边木质框架
+structurize:blocktimberframe_dark_oak_sideframed, 深色橡木镶边木质框架
+structurize:blocktimberframe_dark_oak_gateframed, 深色橡木镶边木质框架
+structurize:blocktimberframe_dark_oak_onecrossedlr, 深色橡木左上-右下向斜线木质框架
+structurize:blocktimberframe_dark_oak_onecrossedrl, 深色橡木左下-右上向斜线木质框架
+structurize:blocktimberframe_dark_oak_downgated, 深色橡木镶边木质框架
+structurize:blocktimberframe_dark_oak_horizontalplain, 深色橡木水平木质框架
+structurize:blocktimberframe_dark_oak_horizontalnocap, 深色橡木水平木质框架
+structurize:multiblock, 多方块结构
+minecolonies:supplychestdeployer, 补给船箱子
+minecolonies:scepterpermission, 权限权杖
+minecolonies:caliper, 卡尺
+minecolonies:scepterguard, 卫兵-权杖
+minecolonies:supplycampdeployer, 补给营地箱子
+minecolonies:ancienttome, 古籍
+minecolonies:chiefsword, 酋长之剑
+minecolonies:clipboard, 剪贴板
+minecolonies:compost, 堆肥
+minecolonies:resourcescroll, 资源卷轴
+minecolonies:iron_scimitar, 短弯刀
+minecolonies:scepterlumberjack, 伐木工设定棍
+minecolonies:pirate_hat, 海盗帽
+minecolonies:pirate_top, 海盗服
+minecolonies:pirate_leggins, 海盗护腿
+minecolonies:pirate_boots, 海盗靴子
+minecolonies:pirate_cap, 海盗帽
+minecolonies:pirate_chest, 海盗胸甲
+minecolonies:pirate_legs, 海盗裤子
+minecolonies:pirate_shoes, 海盗鞋
+minecolonies:sizesettlement, item.minecolonies.sizeSettlement.name
+minecolonies:sizetown, item.minecolonies.sizeTown.name
+minecolonies:sizecity, item.minecolonies.sizeCity.name
+minecolonies:sizemetropolis, item.minecolonies.sizeMetropolis.name
+minecolonies:santa_hat, 圣诞老人帽子
+minecolonies:blockhutbaker, 烘焙房
+minecolonies:blockhutblacksmith, 铁匠铺
+minecolonies:blockhutbuilder, 建筑师小屋
+minecolonies:blockhutcitizen, 市民小屋
+minecolonies:blockhutdeliveryman, 送货员
+minecolonies:blockhutfarmer, 农夫小屋
+minecolonies:blockhutfield, 农田
+minecolonies:blockhutfisherman, 渔民小屋
+minecolonies:blockhutguardtower, 卫兵塔
+minecolonies:blockhutlumberjack, 锯木厂
+minecolonies:blockhutminer, 矿工小屋
+minecolonies:blockhutstonemason, 石匠工坊
+minecolonies:blockhuttownhall, 市政厅
+minecolonies:blockhutwarehouse, 仓库
+minecolonies:blockhutshepherd, 牧羊人小屋
+minecolonies:blockhutcowboy, 牛仔小屋
+minecolonies:blockhutswineherder, 养猪人小屋
+minecolonies:blockhutchickenherder, 养鸡人小屋
+minecolonies:blockhutbarrackstower, 兵营塔
+minecolonies:blockhutbarracks, 兵营
+minecolonies:blockhutcook, 餐馆
+minecolonies:blockhutsmeltery, 冶炼厂
+minecolonies:blockhutcomposter, 堆肥人小屋
+minecolonies:blockhutlibrary, 图书馆
+minecolonies:blockhutarchery, 靶场
+minecolonies:blockhutcombatacademy, 战斗研究所
+minecolonies:blockhutsawmill, 锯木机
+minecolonies:blockhutstonesmeltery, 石材冶炼厂
+minecolonies:blockhutcrusher, 粉碎机
+minecolonies:blockhutsifter, 筛子
+minecolonies:blockhutflorist, 花店
+minecolonies:blockhutenchanter, 附魔小屋
+minecolonies:blockconstructiontape, 施工围栏
+minecolonies:blockbarrackstowersubstitution, 兵营塔占位符
+minecolonies:blockminecoloniesrack, 架子
+minecolonies:blockwaypoint, 路径点占位方块
+minecolonies:blockinfoposter, tile.minecolonies.blockInfoPoster.name
+minecolonies:barrel_block:0, 桶
+minecolonies:blockpostbox, 邮箱
+minecolonies:decorationcontroller, 装饰控制器
+minecolonies:composted_dirt:0, 堆肥土
 immersiveengineering:ore:0, 铜矿石
 immersiveengineering:ore:1, 铝土矿石
 immersiveengineering:ore:2, 铅矿石
@@ -3636,7 +4069,6 @@ immersiveengineering:steel_armor_feet, 钢靴子
 immersiveengineering:steel_armor_legs, 钢护腿
 immersiveengineering:steel_armor_chest, 钢胸甲
 immersiveengineering:steel_armor_head, 钢头盔
-dynamicstealth:handmirror, Hand Mirror
 overlast:beef_pickaxe, 牛肉镐
 overlast:wooden_sword_plus, §6木剑+18
 overlast:baseball_pole, §6送你见上帝
@@ -3740,4 +4172,5 @@ swparasites:buckler_shield_living, §e活体圆盾
 swparasites:buckler_shield_sentient, §6觉知圆盾
 swparasites:impaler_shield_living, §e活体刺盾
 swparasites:impaler_shield_sentient, §6觉知刺盾
+testdummy2:dummy, 试验假人
 guideapi:bloodmagic-guide, item.guideapi.book.bloodmagic.guide.name

@@ -40,9 +40,6 @@ srparasites:needler
 srparasites:foster
 srparasites:link
 srparasites:pivot
-dynamicstealth:soulsight
-cgm:blinded
-cgm:deafened
 overlast:heat_radiation
 overlast:frosty
 overlast:hypothermia
