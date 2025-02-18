@@ -709,6 +709,7 @@ ftbquests:reward_collector, Reward Collector
 ftbquests:book, 任务书
 ftbquests:lootcrate, 奖励箱
 ftbquests:custom_icon, 自定义图标
+srparasites:parasiterubble_slabhalf:0, 硬实骨块台阶
 srparasites:infestedstain, 寄染泥土
 srparasites:infestremain, 寄染残渣
 srparasites:infestedtrunk, 寄染原木
@@ -945,7 +946,6 @@ srparasites:armor_helm_sentient, §6觉知头盔
 srparasites:armor_chest_sentient, §6觉知胸甲
 srparasites:armor_pants_sentient, §6觉知护腿
 srparasites:armor_boots_sentient, §6觉知靴子
-srparasites:parasiterubble_slabhalf:0, 硬实骨块台阶
 spartanshields:shield_basic_wood, 粗砺木盾牌
 spartanshields:shield_basic_stone, 石头镶框盾牌
 spartanshields:shield_basic_iron, 铁镶板盾牌
@@ -3156,6 +3156,7 @@ mekanismmultiblockmachine:multiblockmachine:2, 大型化学清洗机
 mekanismmultiblockmachine:multiblockmachine:3, 数字组装机
 mekanismmultiblockmachine:midsizegastank, 中型气体储罐
 mekanismmultiblockmachine:multiblockgastank, 大型气体储罐
+simpleoregen:cheshirerose, 金樱子
 simpleoregen:surfacealuminumore, 铝土矿石
 simpleoregen:surfacearditeore, 阿迪特矿石
 simpleoregen:surfacecobaltore, 钴矿石
@@ -3268,7 +3269,6 @@ simpleoregen:titaniumingot, 钛锭
 simpleoregen:uraniumingot, 铀锭
 simpleoregen:heartdiamond, 心形钻石
 simpleoregen:zincingot, 锌锭
-simpleoregen:cheshirerose, 金樱子
 bloodmagic:altar, 血之祭坛
 bloodmagic:blood_rune:0, 空白符文
 bloodmagic:blood_rune:1, 速度符文
